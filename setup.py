@@ -9,7 +9,7 @@ def read(fname):
 
 setup(
     name='Flask-AdminLTE',
-    version='2.0.6',
+    version='2.3.11',
     url='http://github.com/jkinred/flask-adminlte',
     license='BSD',
     author='Jonathan Kinred',
